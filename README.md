@@ -15,3 +15,4 @@ Who is this playlist for?
 
 
 Start your journey to becoming a MATLAB expert today by following the playlist! Each video is packed with insights, coding demonstrations, and practical examples to help you grow your skills.
+Youtube playlist at https://www.youtube.com/playlist?list=PLr9I32rDCYH3xE9f0zi57Tm417Mjs-SAx

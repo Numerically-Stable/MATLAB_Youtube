@@ -5,9 +5,10 @@ What's included in the playlist:
 2. Data Analysis and Visualization: Learn how to manipulate datasets and create stunning visualizations.
 3. Matrix Operations: Core to MATLAB, we'll cover matrices, linear algebra, and solving systems of equations.
 4. Script and Function Writing: Automate workflows by writing efficient scripts and custom functions.
-5. Advanced Topics: Dive into topics like numerical methods, optimization, and solving differential equations.
-6. Toolboxes: Explore specific MATLAB toolboxes like Simulink, Image Processing, and Machine Learning.
-. Real-World Applications: Apply MATLAB to engineering, science, finance, and more.
+5. Full tutorials for FINITE ELEMENT METHOD (under construction)
+6. Special insights to popular optimization methods (under construction)
+
+
 Who is this playlist for?
 1. Students looking to enhance their coursework and research with MATLAB.
 2. Professionals seeking to improve their problem-solving and data analysis skills.
@@ -15,4 +16,4 @@ Who is this playlist for?
 
 
 Start your journey to becoming a MATLAB expert today by following the playlist! Each video is packed with insights, coding demonstrations, and practical examples to help you grow your skills.
-Youtube playlist at https://www.youtube.com/playlist?list=PLr9I32rDCYH3xE9f0zi57Tm417Mjs-SAx
+Youtube Channel at https://www.youtube.com/channel/UCBj0XxeQFB6ess_F5Bg2Vmg
